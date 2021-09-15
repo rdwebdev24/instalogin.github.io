@@ -124,4 +124,10 @@
      .image_left{
           display:none;
      }
+     .user_detail{
+          border:none;
+     }
+     .account{
+     border:none;
+     }
 }
